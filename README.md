@@ -11,4 +11,4 @@ Displays subject specific scholarship for Computer Science, Business, and Health
 
 The "Financial Aid" tab displays general financial aid resources, as well as scholarships that any high school senior can apply to.
 
-The "Scholarships" tab works for 3 subjects: Computer Science, Business, and Health Care. If any of these are inputted (case sensitive), 3 scholarships are displayed for students pursuing that field.
+The "Scholarships" tab works for three subjects: Computer Science, Business, and Health Care. If any of these are inputted (case sensitive), three scholarships are displayed for students pursuing that field.
